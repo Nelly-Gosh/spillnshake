@@ -1589,7 +1589,7 @@ button {
 @media (max-width: 750px) {
   /* ABOUT */
   .about-section {
-    padding: 90px 6% 70px;
+    padding: 90px 2% 70px;
   }
 
   .about-container {
