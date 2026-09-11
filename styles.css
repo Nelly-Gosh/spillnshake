@@ -1907,11 +1907,12 @@ button {
   }
 
   .items {
-    padding: 14px;
+    padding: 10px;
   }
 
   .items img {
     height: 210px;
+    padding-right:15px;
   }
 
   .flavour {
