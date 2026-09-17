@@ -1682,6 +1682,7 @@ button {
 
   .items img {
     height: 230px;
+    width: 100%;
   }
 
   .price {
@@ -1913,7 +1914,6 @@ button {
 
   .items img {
     height: 210px;
-    padding-right:15px;
   }
 
   .flavour {
